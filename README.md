@@ -76,8 +76,7 @@
     <div class="car-details">
         <div class="car-image">
 <body> 
-    <img src="corolla.![Corolla](https://github.com/user-attachments/assets/f8559e26-f61d-4490-887e-794297fd4b99)
-jpg" />   
+    <img src="corolla2024.png" />   
         </div>
 
             <h2>Descripción</h2>
